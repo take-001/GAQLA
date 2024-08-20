@@ -1,14 +1,18 @@
 # GAQLA
 ## 💡 summary
 <ul><li><code style="color : Gray">GAQLA 알고리즘은 VRP with Constraints 에 적용가능한 휴리스틱 알고리즘입니다.</code></li><li><code style="color : Gray">GA(유전알고리즘)와 q-labelling algorithm(Exact ESPRC 알고리즘을 변형)으로 이루어진 2-phase 휴리스틱입니다.</code></li><li><code style="color : Gray">예시코드는 Python으로 작성됐습니다.</code></li></ul>
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/03b13fd0-0193-448a-95ab-5b46622a9384">
+<p\>
+<p align="center">
+Fig. flow-chart of CPVP algorithm
+<p\>
 <br>   
 <br> 
+
 ## 1. Phase 1 - Paht generation
 * 이 단계에서는 가능한 모든 tour를 발견한다.
 * ESPRC 문제를 위해 고안된 exact 알고리즘인 labelling 알고리즘을 변형한 q-labelling 알고리즘을 적용했다.
 <p align="center">
-
-
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/03b13fd0-0193-448a-95ab-5b46622a9384">
 <p\>
 <p align="center">
