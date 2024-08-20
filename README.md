@@ -11,6 +11,7 @@ Fig 1. flow-chart of GAQLA
 <p\>
 <br>   
 <br> 
+    
 ---
 
 ## 1. Phase 1 - Path generation
