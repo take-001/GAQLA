@@ -16,7 +16,7 @@ Fig 1. flow-chart of GAQLA
 * 이 단계에서는 가능한 모든 tour를 발견한다.
 * ESPRC 문제를 위해 고안된 exact 알고리즘인 labelling 알고리즘을 변형한 q-labelling 알고리즘을 적용했다.
 <p align="center">
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/03b13fd0-0193-448a-95ab-5b46622a9384](https://github.com/user-attachments/assets/744a498e-84af-4f4a-9826-212d9e483eb5">
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/744a498e-84af-4f4a-9826-212d9e483eb5">
 <p\>
 <p align="center">
 Fig. flow-chart of CPVP algorithm
