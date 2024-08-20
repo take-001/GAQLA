@@ -1,6 +1,6 @@
 # GAQLA
 ## 💡 summary
-<ul><li><code style="color : Gray">GAQLA 알고리즘은 VRP with Constraints 에 적용가능한 휴리스틱 알고리즘입니다.</code></li><li><code style="color : Gray">GA(유전알고리즘)와 q-labelling algorithm(Exact ESPRC 알고리즘을 변형)으로 이루어져 있습니다.</code></li><li><code style="color : Gray">예시코드는 Python으로 작성됐습니다.</code></li></ul>
+<ul><li><code style="color : Gray">GAQLA 알고리즘은 VRP with Constraints 에 적용가능한 휴리스틱 알고리즘입니다.</code></li><li><code style="color : Gray">GA(유전알고리즘)와 q-labelling algorithm(Exact ESPRC 알고리즘을 변형)으로 이루어진 2-phase 휴리스틱입니다.</code></li><li><code style="color : Gray">예시코드는 Python으로 작성됐습니다.</code></li></ul>
 <br>   
 <br> 
 <p align="center">
