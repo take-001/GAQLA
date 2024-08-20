@@ -12,6 +12,7 @@ Fig 1. flow-chart of GAQLA
 <br>   
 <br> 
 ---
+
 ## 1. Phase 1 - Path generation
 * 이 단계에서는 가능한 모든 tour를 발견한다.
 * ESPRC 문제를 위해 고안된 exact 알고리즘인 labelling 알고리즘을 변형한 q-labelling 알고리즘을 적용했다.
